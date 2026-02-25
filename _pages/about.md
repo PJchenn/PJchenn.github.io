@@ -71,7 +71,7 @@ I am a second-year Ph.D. candidate in the School of Automation at [Southeast Uni
 
 ## Conference Paper 👇
 
-- [C3] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2026</span> [LegoTherm: Modular and Reusable Thermal Model for Chiplet-based Heterogeneous Integration](https://dac.com/2026/accepted-paper-ids), **<u>Pengju Chen</u>**, Dan Niu, Depeng Xie, Gang Wang, Chen Wu, Wei W. Xing and Lei He. 2025 62nd ACM/IEEE Design Automation Conference (DAC), Lang Beach, United States, 2026.
+- [C3] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2026</span> [LegoTherm: Modular and Reusable Thermal Model for Chiplet-based Heterogeneous Integration](https://dac.com/2026/accepted-paper-ids), **<u>Pengju Chen</u>**, Dan Niu, Depeng Xie, Gang Wang, Chen Wu, Wei W. Xing and Lei He. 2025 62nd ACM/IEEE Design Automation Conference (DAC), Long Beach, United States, 2026.
 
 - [C2] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">DAC 2025</span> [NeuralMesh: Neural Network for FEM Mesh Generation in 2.5D/3D Chiplet Thermal Simulation](https://ieeexplore.ieee.org/abstract/document/11132601), **<u>Pengju Chen</u>**, Dan Niu, Dekang Zhang, Wenhao Wang, Depeng Xie, Zhou Jin, Wei W. Xing and Lei He. 2025 62nd ACM/IEEE Design Automation Conference (DAC), San Francisco, United States, 2025.
 

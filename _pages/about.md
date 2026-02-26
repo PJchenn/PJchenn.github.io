@@ -67,7 +67,7 @@ I am a second-year Ph.D. candidate in the School of Automation at [Southeast Uni
 
 <span class='anchor' id='-publications'></span>
 
-# 🏔️ Publications 
+# 🏔️ Selected Publications 
 
 ## Conference Paper 👇
 

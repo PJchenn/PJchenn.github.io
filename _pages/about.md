@@ -26,13 +26,13 @@ I am a second-year Ph.D. candidate in the School of Automation at [Southeast Uni
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-<div style="margin-top: 10px;">
+<!-- <div style="margin-top: 10px;">
   <a href="your-cv-link.pdf" style="text-decoration: none;">
     <button style="background-color: #333333; color: white; padding: 5px 10px; border: none; border-radius: 4px; cursor: pointer; font-size: 14px;">
       📄 Download CV
     </button>
   </a>
-</div>
+</div> -->
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
 

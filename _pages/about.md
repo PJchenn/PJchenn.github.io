@@ -19,7 +19,7 @@ redirect_from:
 
 # 🪐 About me
 
-I am a second-year Ph.D. candidate in the School of Automation at [Southeast University (SEU)](https://www.seu.edu.cn/), under the supervision of [Assoc. Prof. Dan Niu](https://automation.seu.edu.cn/nd/list.htm). Prior to this, I obtained my M.Eng. degree in Electronic Information from [SEU](https://www.seu.edu.cn/) supervised by [Prof. Qi Li](https://automation.seu.edu.cn/lq3/list.htm). Currently, I am a visiting Ph.D. candidate at [Eastern Institute of Technology, Ningbo (EIT)](https://www.eitech.edu.cn/), advised by [Prof. Lei He](http://eda.ee.ucla.edu/people/faculty.html), with additional guidance from [Assoc. Prof. Wei W. Xing](http://wxing.me/).
+I am a second-year Ph.D. candidate in the School of Automation at [Southeast University (SEU)](https://www.seu.edu.cn/), under the supervision of [Prof. Dan Niu](https://automation.seu.edu.cn/nd/list.htm). Prior to this, I obtained my M.Eng. degree in Electronic Information from [SEU](https://www.seu.edu.cn/) supervised by [Prof. Qi Li](https://automation.seu.edu.cn/lq3/list.htm). Currently, I am a visiting Ph.D. candidate at [Eastern Institute of Technology, Ningbo (EIT)](https://www.eitech.edu.cn/), advised by [Prof. Lei He (IEEE Fellow)](http://eda.ee.ucla.edu/people/faculty.html), with additional guidance from [Assoc. Prof. Wei W. Xing](http://wxing.me/).
 
 
 
@@ -103,7 +103,7 @@ I am a second-year Ph.D. candidate in the School of Automation at [Southeast Uni
 <span class='anchor' id='-experiences'></span>
 
 # 📖 Experiences
-- *2025.07 - 2026.03(now)*, Visiting Ph.D. Candidate at Eastern Institute of Technology, Ningbo (EIT), advised by [Prof. Lei He](http://eda.ee.ucla.edu/people/faculty.html).
+- *2025.07 - 2026.03(now)*, Visiting Ph.D. Candidate at Eastern Institute of Technology, Ningbo (EIT), advised by [Prof. Lei He (IEEE Fellow)](http://eda.ee.ucla.edu/people/faculty.html).
 <!-- - *2024.07 - 2025.06*, InterLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 💬 Invited Talks

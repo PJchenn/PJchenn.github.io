@@ -60,11 +60,11 @@ I am a second-year Ph.D. candidate in the School of Automation at [Southeast Uni
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉 Been selected as a DAC Young Fellow in 63rd DAC!
-- *2026.02*: &nbsp;🎉 One paper about Chiplet Thermal Simulaition (Reduced Thermal Model) has been accepted to DAC 2026!
-- *2025.02*: &nbsp;🎉 One paper about Chiplet Thermal Simulaition (FEM Mesh Optimization) has been accepted to DAC 2025!
-- *2024.06*: &nbsp;🎓 Graduated from Southeast University and obtain M.Eng. degree in Electronic Information!
-- *2023.11*: &nbsp;🎉 One paper about Model Order Reduction has been accepted to DATE 2024! 
+- *2026.04*: &nbsp;🎉 Earned a spot in the DAC Young Fellow Program of the 63rd DAC!
+- *2026.02*: &nbsp;🎉 One paper about Chiplet Thermal Simulaition (Reduced Thermal Model) has been accepted by DAC 2026!
+- *2025.02*: &nbsp;🎉 One paper about Chiplet Thermal Simulaition (FEM Mesh Optimization) has been accepted by DAC 2025!
+- *2024.06*: &nbsp;🎓 Graduated from Southeast University and obtain an M.Eng. degree in Electronic Information!
+- *2023.11*: &nbsp;🎉 One paper about Model Order Reduction has been accepted by DATE 2024! 
 
 <span class='anchor' id='-publications'></span>
 
@@ -97,7 +97,7 @@ I am a second-year Ph.D. candidate in the School of Automation at [Southeast Uni
 <span class='anchor' id='-honors-and-awards'></span>
 
 # 🏆 Honors and Awards
-- *2026.04* **DAC Young Fellow** in 63rd DAC (Design Automation Conference)!
+- *2026.04* **DAC Young Fellow** in 63rd DAC.
 - *2025.10* **First-class Scholarship** for Ph.D. Students.
 - *2024.06* Outstanding Graduate.
 - *2024.03* **"83791"** Alumni Scholarship.

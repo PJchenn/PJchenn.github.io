@@ -19,7 +19,7 @@ redirect_from:
 
 # 🪐 About me
 
-I am a second-year Ph.D. candidate in the School of Automation at [Southeast University (SEU)](https://www.seu.edu.cn/), under the supervision of [Prof. Dan Niu](https://automation.seu.edu.cn/nd/list.htm). Prior to this, I obtained my M.Eng. degree in Electronic Information from [SEU](https://www.seu.edu.cn/) supervised by [Prof. Qi Li](https://automation.seu.edu.cn/lq3/list.htm). Currently, I am a visiting Ph.D. candidate at [Eastern Institute of Technology, Ningbo (EIT)](https://www.eitech.edu.cn/), advised by [Prof. Lei He (IEEE Fellow)](http://eda.ee.ucla.edu/people/faculty.html), with additional guidance from [Assoc. Prof. Wei W. Xing](http://wxing.me/).
+I am a second-year Ph.D. candidate in the School of Automation at [Southeast University (SEU)](https://www.seu.edu.cn/), under the supervision of [Prof. Dan Niu](https://automation.seu.edu.cn/nd/list.htm). Prior to this, I obtained my M.Eng. degree in Electronic Information from [SEU](https://www.seu.edu.cn/) supervised by [Prof. Qi Li](https://automation.seu.edu.cn/lq3/list.htm). Currently, I am a visiting Ph.D. candidate at [Eastern Institute of Technology, Ningbo (EIT)](https://www.eitech.edu.cn/), advised by [Prof. Lei He (IEEE Fellow)](https://scholar.google.com/citations?user=n_N-PJkAAAAJ&hl=zh-CN), with additional guidance from [Assoc. Prof. Wei W. Xing](http://wxing.me/).
 
 
 

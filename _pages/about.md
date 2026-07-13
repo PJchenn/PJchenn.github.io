@@ -108,7 +108,7 @@ I am a second-year Ph.D. candidate in the School of Automation at [Southeast Uni
 <span class='anchor' id='-experiences'></span>
 
 # 📖 Experiences
-- *2025.07 - 2026.03(now)*, Visiting Ph.D. Candidate at Eastern Institute of Technology, Ningbo (EIT), advised by [Prof. Lei He (IEEE Fellow)](http://eda.ee.ucla.edu/people/faculty.html).
+- *2025.07 - 2026.07(now)*, Visiting Ph.D. Candidate at Eastern Institute of Technology, Ningbo (EIT), advised by [Prof. Lei He (IEEE Fellow)](http://eda.ee.ucla.edu/people/faculty.html).
 <!-- - *2024.07 - 2025.06*, InterLorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 💬 Invited Talks

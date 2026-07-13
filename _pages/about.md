@@ -60,7 +60,7 @@ I am a second-year Ph.D. candidate in the School of Automation at [Southeast Uni
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2026.04*: &nbsp;🎉 One paper about Chiplet Thermal Simulaition (High-resolution Thermal Simulation) has been accepted by TCAD 2026!!
+- *2026.07*: &nbsp;🎉 One paper about Chiplet Thermal Simulaition (High-resolution Thermal Simulation) has been accepted by TCAD 2026!!
 - *2026.04*: &nbsp;🎉 Earned a spot in the DAC Young Fellow Program of the 63rd DAC!
 - *2026.02*: &nbsp;🎉 One paper about Chiplet Thermal Simulaition (Reduced Thermal Model) has been accepted by DAC 2026!
 - *2025.02*: &nbsp;🎉 One paper about Chiplet Thermal Simulaition (FEM Mesh Optimization) has been accepted by DAC 2025!
@@ -81,7 +81,7 @@ I am a second-year Ph.D. candidate in the School of Automation at [Southeast Uni
 
 ## Journal Paper 👇
 
-- [J1] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">TCAD 2026</span> [H^{2}-Thermal: High-Resolution Thermal Simulation for Chiplet-based Heterogeneous Integration via Adaptive Hierarchical Modeling], **<u>Pengju Chen</u>**, Depeng Xie, Dan Niu, Gang Wang, Wenhao Wang, Wei W. Xing and Lei He. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
+- [J1] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">TCAD 2026</span> [H<sup>2</sup>-Thermal: High-Resolution Thermal Simulation for Chiplet-based Heterogeneous Integration via Adaptive Hierarchical Modeling], **<u>Pengju Chen</u>**, Depeng Xie, Dan Niu, Gang Wang, Wenhao Wang, Wei W. Xing and Lei He. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

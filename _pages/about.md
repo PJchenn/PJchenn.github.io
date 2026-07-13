@@ -60,7 +60,7 @@ I am a second-year Ph.D. candidate in the School of Automation at [Southeast Uni
 <span class='anchor' id='-news'></span>
 
 # 🔥 News
-- *2026.07*: &nbsp;🎉 One paper about Chiplet Thermal Simulaition (High-resolution Thermal Simulation) has been accepted by TCAD 2026!!
+- *2026.07*: &nbsp;🎉 One paper about Chiplet Thermal Simulaition (High-resolution Thermal) has been accepted by TCAD 2026!
 - *2026.04*: &nbsp;🎉 Earned a spot in the DAC Young Fellow Program of the 63rd DAC!
 - *2026.02*: &nbsp;🎉 One paper about Chiplet Thermal Simulaition (Reduced Thermal Model) has been accepted by DAC 2026!
 - *2025.02*: &nbsp;🎉 One paper about Chiplet Thermal Simulaition (FEM Mesh Optimization) has been accepted by DAC 2025!

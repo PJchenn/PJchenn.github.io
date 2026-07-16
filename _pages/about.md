@@ -81,7 +81,7 @@ I am a second-year Ph.D. candidate in the School of Automation at [Southeast Uni
 
 ## Journal Paper 👇
 
-- [J1] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">TCAD 2026</span> [H<sup>2</sup>-Thermal: High-Resolution Thermal Simulation for Chiplet-based Heterogeneous Integration via Adaptive Hierarchical Modeling], **<u>Pengju Chen</u>**, Depeng Xie, Dan Niu, Gang Wang, Wenhao Wang, Wei W. Xing and Lei He. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
+- [J1] <span style="background-color:rgb(0, 96, 193); color: #ffffff; padding: 1px 6px; border-radius: 3px; font-weight: bold;">TCAD 2026</span> [H<sup>2</sup>-Thermal: High-Resolution Thermal Simulation for Chiplet-based Heterogeneous Integration via Adaptive Hierarchical Modeling](https://ieeexplore.ieee.org/document/11611218), **<u>Pengju Chen</u>**, Depeng Xie, Dan Niu, Gang Wang, Wenhao Wang, Wei W. Xing and Lei He. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2026.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
